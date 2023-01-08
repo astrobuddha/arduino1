@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "Blink.ino",
+    "sketch": "TemperatureSensor.ino",
     "port": "COM3"
 }
