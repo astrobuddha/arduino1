@@ -24,7 +24,7 @@ void loop()
     Serial.print("temp in F = ");
     Serial.println(tempF);
 
-    delay(1000);
+    delay(10000);
 }
 
 
